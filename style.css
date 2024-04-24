@@ -190,7 +190,7 @@ object-fit: cover;
     position:absolute;
     top: 130px;
     left: 650px;
-    z-index: 1;
+    z-index: -1;
    
 }
 .middle .circles{
